@@ -1,24 +1,61 @@
-# Deloitte Data Analytics Job Simulation
+# Deloitte Data Analytics Virtual Job Simulation
 
-##  Overview
-Successfully completed the Deloitte Data Analytics Job Simulation by Forage, gaining hands-on experience in data analysis and bussiness problem-solving
+## Project Overview
 
-## Key Learning Outcomes
-- Data Analysis
-- Data Interpretation
+This project was completed as part of Deloitte's Data Analytics Virtual Job Simulation on Forage.
+
+The objective was to analyze business data, clean the dataset, create visualizations, and provide business insights through an interactive dashboard.
+
+## Tools Used
+
 - Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Dashboard
+- Data Cleaning
+
+## Skills Learned
+
+- Data Cleaning
+- Data Analysis
 - Data Visualization
-- Business Problem Solving
-- Critical Thinking
-- Forensic Technology
-- Analytical Decision Making
+- Dashboard Creation
+- Business Insights
+- Reporting
 
-## Tasks Completed
-- Analyzed business datasets.
-- Identified trends and patterns from data.
-- Applied forensic technology concepts.
-- Presented insights in a structured and professional manner.
-- Improved analytical and problem-solving 
+## Project Steps
 
----
-⭐ *Thank you for visiting my repository. Feel free to explore my work and connect with me!*
+### Step 1: Understand the Dataset
+
+Reviewed the dataset and identified important columns.
+
+### Step 2: Data Cleaning
+
+- Removed duplicate records
+- Checked missing values
+- Corrected formatting
+- Standardized data
+
+### Step 3: Data Analysis
+
+Created Pivot Tables to summarize the data.
+
+### Step 4: Visualization
+
+Created charts to identify trends.
+
+### Step 5: Dashboard
+
+Designed an interactive dashboard using Excel.
+
+### Step 6: Business Recommendations
+
+Prepared insights and recommendations based on the analysis.
+
+## Outcome
+
+Successfully completed Deloitte's Data Analytics Virtual Job Simulation and gained practical experience in business data analysis.
+
+## Author
+
+Emani Poorna Chandrika
